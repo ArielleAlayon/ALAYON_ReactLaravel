@@ -56,7 +56,7 @@ function App() {
               </div>
               <div className="flex justify-between">
                 <span className="text-black-400 text-sm">Score:</span>
-                <span className={`font-bold ${student.score >= 90 ? 'text-blue-600' : 'text-gray-700'}`}>
+                <span className={`font-bold ${student.score >= 91 ? 'text-blue-600' : 'text-gray-700'}`}>
                   {student.score}
                 </span>
               </div>
