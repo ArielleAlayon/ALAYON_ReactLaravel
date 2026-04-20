@@ -11,7 +11,7 @@ type Student = {
 
 function App() {
   const students: Student[] = [
-    { id: 1010, name: 'Kyla Catalan', age: 22, gradeLevel: '10th Grade', status: 'active', score: 85 },
+    { id: 1010, name: 'Jinky Lucero', age: 22, gradeLevel: '10th Grade', status: 'active', score: 85 },
     { id: 1011, name: 'Chriztelle Leonor', age: 21, gradeLevel: '11th Grade', status: 'active', score: 94 },
     { id: 1012, name: 'Iris Tiffany Yu', age: 21, gradeLevel: '12th Grade', status: 'inactive', score: 78 }
   ];
